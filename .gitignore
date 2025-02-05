@@ -19,3 +19,4 @@ tmp/
 test/nocloud.iso
 test/.vagrant
 *.log
+.aider*
